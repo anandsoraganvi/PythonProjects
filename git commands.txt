@@ -1,0 +1,35 @@
+1. to add every file. git add -A
+2. to clone online repo   git clone https://github.com/anandsoraganvi/webautomation    .
+3. list all files in directory ls -la
+4. git diff
+5. to see all comits with comments. git log
+6. git config --global user.password "Anand#9587"
+7. git config --global user.name "anandsoraganvi"
+8. git remote add origin / git remote remove origin
+9. git remote add origin https://github.com/anandsoraganvi/webautomation.git
+10. git status
+11. git pull origin master  / git push -u origin master(or branch) or (git push)
+12. git commit -m "changes"
+13. touch readme.md  . to create a file with git bash
+14. git branch  to see all branches
+15. git branch -a  ... to see local and remote branches
+16. git branch --merged .. to see branches merged
+17. git merge branch1  ... to merge a branch
+18. git branch -d branch1 .. to delete branch local after merge
+19. git push origin --delete branch1
+
+
+faster example
+
+ 
+1. git branch branch1
+2. git checkout branch1
+3. touch xxx / chnages
+4. git add -A
+5. git commit -m "changes"
+6. git push -u origin branch1
+7. git pull origin master
+8. git merge branch1
+9. git branch --merge
+10. git push origin master
+11.  

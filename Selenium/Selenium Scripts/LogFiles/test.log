@@ -1,0 +1,27 @@
+2019-07-22 17:00:45,273: DEBUG: This is Debug message
+2019-07-22 17:00:45,273: INFO: This is Info message
+2019-07-22 17:00:45,274: WARNING: This is Warning message
+2019-07-22 17:00:45,274: ERROR: This is Error message
+2019-07-22 17:00:45,274: CRITICAL: This is Critical message
+22/07/2019 05:03:22 PM: DEBUG: This is Debug message
+22/07/2019 05:03:22 PM: INFO: This is Info message
+22/07/2019 05:03:22 PM: WARNING: This is Warning message
+22/07/2019 05:03:22 PM: ERROR: This is Error message
+22/07/2019 05:03:22 PM: CRITICAL: This is Critical message
+22/07/2019 05:05:23 PM: DEBUG: This is Debug message
+22/07/2019 05:05:23 PM: INFO: This is Info message
+22/07/2019 05:05:23 PM: WARNING: This is Warning message
+22/07/2019 05:05:23 PM: ERROR: This is Error message
+22/07/2019 05:05:23 PM: CRITICAL: This is Critical message
+23/07/2019 11:35:23 AM: ERROR: Webpage title is same
+23/07/2019 03:13:42 PM: ERROR: Webpage title is same
+23/07/2019 03:28:52 PM: ERROR: Webpage title is same
+23/07/2019 03:31:25 PM: ERROR: Title is not equal
+23/07/2019 03:32:12 PM: ERROR: Title is not equal
+23/07/2019 03:33:19 PM: ERROR: Title is not equal
+29/07/2019 08:27:08 AM: ERROR: Webpage title is same
+29/07/2019 01:34:24 PM: DEBUG: This is Debug message
+29/07/2019 01:34:24 PM: INFO: This is Info message
+29/07/2019 01:34:24 PM: WARNING: This is Warning message
+29/07/2019 01:34:24 PM: ERROR: This is Error message
+29/07/2019 01:34:24 PM: CRITICAL: This is Critical message

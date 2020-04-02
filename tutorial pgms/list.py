@@ -1,3 +1,5 @@
+#lists: ordered, mutable,allows duplicate elements
+
 mylist =["banana","cherry","apple"]
 
 print(mylist[-1])

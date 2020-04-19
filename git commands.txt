@@ -16,7 +16,7 @@
 16. git branch --merged .. to see branches merged
 17. git merge branch1  ... to merge a branch
 18. git branch -d branch1 .. to delete branch local after merge
-19. git push origin --delete branch1 remotely
+19. git push origin --delete branch1 (remotely)
 
 
 faster example

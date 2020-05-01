@@ -33,6 +33,5 @@ faster example
 9. git merge branch1
 10. git branch --merge
 11. git push origin master
-<<<<<<< HEAD
 12.  hh
 

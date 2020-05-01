@@ -26,7 +26,7 @@ faster example
 2. git checkout branch1
 3. touch xxx / chnages
 4. git add -A
-5. git commit -m "changes"
+5. git commit -m "changes"   (4 and 5 together by git commit -am 'changes')
 6. git push -u origin branch1
 7. git checkout master
 8. git pull origin master

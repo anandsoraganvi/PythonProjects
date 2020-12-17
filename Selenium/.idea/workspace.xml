@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cc0d3ee-5604-4db2-8dfe-733d1b468838" name="Default Changelist" comment="" />
+    <list default="true" id="2cc0d3ee-5604-4db2-8dfe-733d1b468838" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +16,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Selenium Scripts/Scripts/Links.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
+            <state relative-caret-position="476">
               <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
@@ -25,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9860">
-              <caret line="965" column="36" lean-forward="true" selection-start-line="965" selection-start-column="36" selection-end-line="965" selection-end-column="36" />
+            <state relative-caret-position="16133">
+              <caret line="965" column="36" selection-start-line="965" selection-start-column="36" selection-end-line="965" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -58,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/Selenium Scripts/myPack/test_Login.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="29" lean-forward="true" selection-end-line="15" />
+              <caret line="9" column="29" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -71,7 +74,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Selenium Scripts/BankingProject/tests/BankingTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-174">
+            <state relative-caret-position="51">
               <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
@@ -184,48 +187,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Selenium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="Selenium Scripts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="Selenium Scripts" type="462c0819:PsiDirectoryNode" />
-              <item name="BankingProject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="Selenium Scripts" type="462c0819:PsiDirectoryNode" />
-              <item name="BankingProject" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="Selenium Scripts" type="462c0819:PsiDirectoryNode" />
-              <item name="LogFiles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="Selenium Scripts" type="462c0819:PsiDirectoryNode" />
-              <item name="myPack" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -494,15 +457,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25313947" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25313947" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49966952" weight="0.32551318" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49041638" visible="true" weight="0.43338212" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49041638" weight="0.43338212" />
       <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49834764" weight="0.39824304" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -888,6 +850,23 @@ driver.set_page_load_timeout(10)</expression-string>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium Scripts/Scripts/Links.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16133">
+          <caret line="965" column="36" selection-start-line="965" selection-start-column="36" selection-end-line="965" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Selenium Scripts/Scripts/Mouse_double_Click.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -910,6 +889,19 @@ driver.set_page_load_timeout(10)</expression-string>
     <entry file="file://$PROJECT_DIR$/Selenium Scripts/Scripts/report.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium Scripts/BankingProject/tests/BankingTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium Scripts/LogFiles/test.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Selenium Scripts/Scripts/Sample.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -924,40 +916,10 @@ driver.set_page_load_timeout(10)</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium Scripts/Scripts/Links.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9860">
-          <caret line="965" column="36" lean-forward="true" selection-start-line="965" selection-start-column="36" selection-end-line="965" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium Scripts/BankingProject/tests/BankingTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-174">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium Scripts/LogFiles/test.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Selenium Scripts/myPack/test_Login.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="29" lean-forward="true" selection-end-line="15" />
+          <caret line="9" column="29" selection-end-line="15" />
         </state>
       </provider>
     </entry>

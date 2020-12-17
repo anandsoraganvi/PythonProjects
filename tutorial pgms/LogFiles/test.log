@@ -1,0 +1,290 @@
+08/05/2020 05:29:03 PM: WARNING: this is warning
+08/05/2020 05:29:03 PM: ERROR: this is error
+08/05/2020 05:29:47 PM: DEBUG: This is Debug message
+08/05/2020 05:29:47 PM: INFO: This is Info message
+08/05/2020 05:29:47 PM: WARNING: This is Warning message
+08/05/2020 05:29:47 PM: ERROR: This is Error message
+08/05/2020 05:29:47 PM: CRITICAL: This is Critical message
+08/05/2020 05:30:27 PM: WARNING: this is warning
+08/05/2020 05:30:27 PM: ERROR: this is error
+08/05/2020 05:31:04 PM: WARNING: this is warning
+root:WARNING:this is warning
+08/05/2020 05:31:04 PM: ERROR: this is error
+root:ERROR:this is error
+08/05/2020 05:32:34 PM: DEBUG: This is Debug message
+root:DEBUG:This is Debug message
+08/05/2020 05:32:34 PM: INFO: This is Info message
+root:INFO:This is Info message
+08/05/2020 05:32:34 PM: WARNING: This is Warning message
+root:WARNING:This is Warning message
+08/05/2020 05:32:34 PM: ERROR: This is Error message
+root:ERROR:This is Error message
+08/05/2020 05:32:34 PM: CRITICAL: This is Critical message
+root:CRITICAL:This is Critical message
+08/05/2020 05:32:57 PM: DEBUG: This is Debug message
+root:DEBUG:This is Debug message
+08/05/2020 05:32:57 PM: INFO: This is Info message
+root:INFO:This is Info message
+08/05/2020 05:32:57 PM: WARNING: This is Warning message
+root:WARNING:This is Warning message
+08/05/2020 05:32:57 PM: ERROR: This is Error message
+root:ERROR:This is Error message
+08/05/2020 05:32:57 PM: CRITICAL: This is Critical message
+root:CRITICAL:This is Critical message
+08/05/2020 05:40:54 PM: DEBUG: This is Debug message
+08/05/2020 05:40:54 PM: INFO: This is Info message
+08/05/2020 05:40:54 PM: WARNING: This is Warning message
+08/05/2020 05:40:54 PM: ERROR: This is Error message
+08/05/2020 05:40:54 PM: CRITICAL: This is Critical message
+08/05/2020 05:40:56 PM: INFO: hello from helper
+08/05/2020 05:40:57 PM: WARNING: this is warning
+08/05/2020 05:40:57 PM: ERROR: this is error
+08/05/2020 05:41:06 PM: DEBUG: pickle loaded: C:\Users\asoraganvi\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+08/05/2020 05:41:06 PM: DEBUG: pickle loaded: C:\Users\asoraganvi\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+08/05/2020 05:41:06 PM: DEBUG: diff parser start
+08/05/2020 05:41:06 PM: DEBUG: line_lengths old: 1; new: 1
+08/05/2020 05:41:06 PM: DEBUG: -> code[replace] old[1:1] new[1:1]
+08/05/2020 05:41:06 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:41:06 PM: DEBUG: diff parser end
+08/05/2020 05:41:08 PM: DEBUG: diff parser start
+08/05/2020 05:41:08 PM: DEBUG: line_lengths old: 1; new: 1
+08/05/2020 05:41:08 PM: DEBUG: -> code[replace] old[1:1] new[1:1]
+08/05/2020 05:41:08 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:41:08 PM: DEBUG: diff parser end
+08/05/2020 05:41:09 PM: DEBUG: diff parser start
+08/05/2020 05:41:09 PM: DEBUG: line_lengths old: 1; new: 1
+08/05/2020 05:41:09 PM: DEBUG: -> code[replace] old[1:1] new[1:1]
+08/05/2020 05:41:09 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:41:09 PM: DEBUG: diff parser end
+08/05/2020 05:41:21 PM: DEBUG: diff parser start
+08/05/2020 05:41:21 PM: DEBUG: line_lengths old: 1; new: 1
+08/05/2020 05:41:21 PM: DEBUG: -> code[replace] old[1:1] new[1:1]
+08/05/2020 05:41:21 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:41:21 PM: DEBUG: diff parser end
+08/05/2020 05:41:22 PM: DEBUG: pickle loaded: C:\Users\asoraganvi\Anaconda3\lib\logging\__init__.py
+08/05/2020 05:41:22 PM: DEBUG: pickle loaded: C:\Users\asoraganvi\Anaconda3\lib\importlib\_bootstrap_external.py
+08/05/2020 05:41:22 PM: DEBUG: pickle loaded: C:\Users\asoraganvi\Anaconda3\lib\importlib\_bootstrap.py
+08/05/2020 05:41:22 PM: DEBUG: pickle loaded: C:\Users\asoraganvi\Anaconda3\lib\collections\__init__.py
+08/05/2020 05:41:22 PM: DEBUG: pickle loaded: C:\Users\asoraganvi\Anaconda3\lib\os.py
+08/05/2020 05:41:22 PM: DEBUG: pickle loaded: C:\Users\asoraganvi\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\time.pyi
+08/05/2020 05:41:29 PM: DEBUG: diff parser start
+08/05/2020 05:41:29 PM: DEBUG: line_lengths old: 1; new: 1
+08/05/2020 05:41:29 PM: DEBUG: -> code[replace] old[1:1] new[1:1]
+08/05/2020 05:41:29 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:41:29 PM: DEBUG: diff parser end
+08/05/2020 05:41:32 PM: DEBUG: diff parser start
+08/05/2020 05:41:32 PM: DEBUG: line_lengths old: 1; new: 1
+08/05/2020 05:41:32 PM: DEBUG: -> code[replace] old[1:1] new[1:1]
+08/05/2020 05:41:32 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:41:32 PM: DEBUG: diff parser end
+08/05/2020 05:41:34 PM: DEBUG: diff parser start
+08/05/2020 05:41:34 PM: DEBUG: line_lengths old: 1; new: 1
+08/05/2020 05:41:34 PM: DEBUG: -> code[replace] old[1:1] new[1:1]
+08/05/2020 05:41:34 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:41:34 PM: DEBUG: diff parser end
+08/05/2020 05:41:41 PM: DEBUG: diff parser start
+08/05/2020 05:41:41 PM: DEBUG: line_lengths old: 1; new: 1
+08/05/2020 05:41:41 PM: DEBUG: -> code[replace] old[1:1] new[1:1]
+08/05/2020 05:41:41 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:41:41 PM: DEBUG: diff parser end
+08/05/2020 05:41:53 PM: DEBUG: diff parser start
+08/05/2020 05:41:53 PM: DEBUG: line_lengths old: 1; new: 1
+08/05/2020 05:41:53 PM: DEBUG: -> code[replace] old[1:1] new[1:1]
+08/05/2020 05:41:53 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:41:53 PM: DEBUG: diff parser end
+08/05/2020 05:42:21 PM: DEBUG: diff parser start
+08/05/2020 05:42:21 PM: DEBUG: line_lengths old: 1; new: 1
+08/05/2020 05:42:21 PM: DEBUG: -> code[replace] old[1:1] new[1:1]
+08/05/2020 05:42:21 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:42:21 PM: DEBUG: diff parser end
+08/05/2020 05:42:21 PM: DEBUG: pickle loaded: C:\Users\asoraganvi\Anaconda3\lib\typing.py
+08/05/2020 05:42:21 PM: DEBUG: pickle loaded: C:\Users\asoraganvi\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+08/05/2020 05:42:23 PM: DEBUG: diff parser start
+08/05/2020 05:42:23 PM: DEBUG: line_lengths old: 1; new: 1
+08/05/2020 05:42:23 PM: DEBUG: -> code[replace] old[1:1] new[1:1]
+08/05/2020 05:42:23 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:42:23 PM: DEBUG: diff parser end
+08/05/2020 05:42:28 PM: DEBUG: diff parser start
+08/05/2020 05:42:28 PM: DEBUG: line_lengths old: 1; new: 1
+08/05/2020 05:42:28 PM: DEBUG: -> code[replace] old[1:1] new[1:1]
+08/05/2020 05:42:28 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:42:28 PM: DEBUG: diff parser end
+08/05/2020 05:42:29 PM: DEBUG: diff parser start
+08/05/2020 05:42:29 PM: DEBUG: line_lengths old: 1; new: 1
+08/05/2020 05:42:29 PM: DEBUG: -> code[replace] old[1:1] new[1:1]
+08/05/2020 05:42:29 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:42:29 PM: DEBUG: diff parser end
+08/05/2020 05:42:46 PM: DEBUG: diff parser start
+08/05/2020 05:42:46 PM: DEBUG: line_lengths old: 1; new: 1
+08/05/2020 05:42:46 PM: DEBUG: -> code[replace] old[1:1] new[1:1]
+08/05/2020 05:42:46 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:42:46 PM: DEBUG: diff parser end
+08/05/2020 05:47:47 PM: DEBUG: diff parser start
+08/05/2020 05:47:47 PM: DEBUG: line_lengths old: 1; new: 1
+08/05/2020 05:47:47 PM: DEBUG: -> code[replace] old[1:1] new[1:1]
+08/05/2020 05:47:47 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:47:47 PM: DEBUG: diff parser end
+08/05/2020 05:48:18 PM: DEBUG: diff parser start
+08/05/2020 05:48:18 PM: DEBUG: line_lengths old: 1; new: 1
+08/05/2020 05:48:18 PM: DEBUG: -> code[replace] old[1:1] new[1:1]
+08/05/2020 05:48:18 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:48:18 PM: DEBUG: diff parser end
+08/05/2020 05:48:51 PM: DEBUG: diff parser start
+08/05/2020 05:48:51 PM: DEBUG: line_lengths old: 1; new: 1
+08/05/2020 05:48:51 PM: DEBUG: -> code[replace] old[1:1] new[1:1]
+08/05/2020 05:48:51 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:48:51 PM: DEBUG: diff parser end
+08/05/2020 05:48:57 PM: DEBUG: diff parser start
+08/05/2020 05:48:57 PM: DEBUG: line_lengths old: 1; new: 1
+08/05/2020 05:48:57 PM: DEBUG: -> code[replace] old[1:1] new[1:1]
+08/05/2020 05:48:57 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:48:57 PM: DEBUG: diff parser end
+08/05/2020 05:49:07 PM: DEBUG: diff parser start
+08/05/2020 05:49:07 PM: DEBUG: line_lengths old: 1; new: 2
+08/05/2020 05:49:07 PM: DEBUG: -> code[replace] old[1:1] new[1:2]
+08/05/2020 05:49:07 PM: DEBUG: parse_part from 1 to 2 (to 1 in part parser)
+08/05/2020 05:49:07 PM: DEBUG: diff parser end
+08/05/2020 05:49:12 PM: DEBUG: diff parser start
+08/05/2020 05:49:12 PM: DEBUG: line_lengths old: 2; new: 2
+08/05/2020 05:49:12 PM: DEBUG: -> code[equal] old[1:1] new[1:1]
+08/05/2020 05:49:12 PM: DEBUG: copy old[1:1] new[1:1]
+08/05/2020 05:49:12 PM: DEBUG: -> code[replace] old[2:2] new[2:2]
+08/05/2020 05:49:12 PM: DEBUG: parse_part from 2 to 2 (to 1 in part parser)
+08/05/2020 05:49:12 PM: DEBUG: diff parser end
+08/05/2020 05:49:26 PM: DEBUG: diff parser start
+08/05/2020 05:49:26 PM: DEBUG: line_lengths old: 2; new: 3
+08/05/2020 05:49:26 PM: DEBUG: -> code[equal] old[1:1] new[1:1]
+08/05/2020 05:49:26 PM: DEBUG: copy old[1:1] new[1:1]
+08/05/2020 05:49:26 PM: DEBUG: -> code[replace] old[2:2] new[2:3]
+08/05/2020 05:49:26 PM: DEBUG: parse_part from 2 to 3 (to 2 in part parser)
+08/05/2020 05:49:26 PM: DEBUG: diff parser end
+08/05/2020 05:49:32 PM: DEBUG: diff parser start
+08/05/2020 05:49:32 PM: DEBUG: line_lengths old: 3; new: 3
+08/05/2020 05:49:32 PM: DEBUG: -> code[equal] old[1:2] new[1:2]
+08/05/2020 05:49:32 PM: DEBUG: copy old[1:2] new[1:2]
+08/05/2020 05:49:32 PM: DEBUG: -> code[replace] old[3:3] new[3:3]
+08/05/2020 05:49:32 PM: DEBUG: parse_part from 3 to 3 (to 2 in part parser)
+08/05/2020 05:49:32 PM: DEBUG: diff parser end
+08/05/2020 05:53:14 PM: DEBUG: diff parser start
+08/05/2020 05:53:14 PM: DEBUG: line_lengths old: 3; new: 1
+08/05/2020 05:53:14 PM: DEBUG: -> code[replace] old[1:3] new[1:1]
+08/05/2020 05:53:14 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:53:14 PM: DEBUG: diff parser end
+08/05/2020 05:53:16 PM: DEBUG: diff parser start
+08/05/2020 05:53:16 PM: DEBUG: line_lengths old: 1; new: 1
+08/05/2020 05:53:16 PM: DEBUG: -> code[replace] old[1:1] new[1:1]
+08/05/2020 05:53:16 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:53:16 PM: DEBUG: diff parser end
+08/05/2020 05:53:16 PM: DEBUG: diff parser start
+08/05/2020 05:53:16 PM: DEBUG: line_lengths old: 1; new: 1
+08/05/2020 05:53:16 PM: DEBUG: -> code[replace] old[1:1] new[1:1]
+08/05/2020 05:53:16 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:53:16 PM: DEBUG: diff parser end
+08/05/2020 05:53:16 PM: DEBUG: diff parser start
+08/05/2020 05:53:16 PM: DEBUG: line_lengths old: 1; new: 1
+08/05/2020 05:53:16 PM: DEBUG: -> code[replace] old[1:1] new[1:1]
+08/05/2020 05:53:16 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:53:16 PM: DEBUG: diff parser end
+08/05/2020 05:53:16 PM: DEBUG: diff parser start
+08/05/2020 05:53:16 PM: DEBUG: line_lengths old: 1; new: 1
+08/05/2020 05:53:16 PM: DEBUG: -> code[replace] old[1:1] new[1:1]
+08/05/2020 05:53:16 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:53:16 PM: DEBUG: diff parser end
+08/05/2020 05:53:18 PM: DEBUG: diff parser start
+08/05/2020 05:53:18 PM: DEBUG: line_lengths old: 1; new: 1
+08/05/2020 05:53:18 PM: DEBUG: -> code[replace] old[1:1] new[1:1]
+08/05/2020 05:53:18 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 05:53:18 PM: DEBUG: diff parser end
+08/05/2020 05:57:05 PM: DEBUG: diff parser start
+08/05/2020 05:57:05 PM: DEBUG: line_lengths old: 1; new: 2
+08/05/2020 05:57:05 PM: DEBUG: -> code[replace] old[1:1] new[1:2]
+08/05/2020 05:57:05 PM: DEBUG: parse_part from 1 to 2 (to 1 in part parser)
+08/05/2020 05:57:05 PM: DEBUG: diff parser end
+08/05/2020 05:57:06 PM: DEBUG: pickle loaded: C:\Users\asoraganvi\Anaconda3\lib\ntpath.py
+08/05/2020 06:02:00 PM: DEBUG: diff parser start
+08/05/2020 06:02:00 PM: DEBUG: line_lengths old: 2; new: 4
+08/05/2020 06:02:00 PM: DEBUG: -> code[replace] old[1:2] new[1:4]
+08/05/2020 06:02:00 PM: DEBUG: parse_part from 1 to 4 (to 3 in part parser)
+08/05/2020 06:02:00 PM: DEBUG: diff parser end
+08/05/2020 06:02:04 PM: DEBUG: diff parser start
+08/05/2020 06:02:04 PM: DEBUG: line_lengths old: 4; new: 4
+08/05/2020 06:02:04 PM: DEBUG: -> code[equal] old[1:3] new[1:3]
+08/05/2020 06:02:04 PM: DEBUG: parse_part from 1 to 4 (to 3 in part parser)
+08/05/2020 06:02:04 PM: DEBUG: -> code[replace] old[4:4] new[4:4]
+08/05/2020 06:02:04 PM: DEBUG: diff parser end
+08/05/2020 06:02:21 PM: DEBUG: diff parser start
+08/05/2020 06:02:21 PM: DEBUG: line_lengths old: 4; new: 5
+08/05/2020 06:02:21 PM: DEBUG: -> code[equal] old[1:3] new[1:3]
+08/05/2020 06:02:21 PM: DEBUG: parse_part from 1 to 5 (to 4 in part parser)
+08/05/2020 06:02:21 PM: DEBUG: -> code[replace] old[4:4] new[4:5]
+08/05/2020 06:02:21 PM: DEBUG: diff parser end
+08/05/2020 06:02:24 PM: DEBUG: diff parser start
+08/05/2020 06:02:24 PM: DEBUG: line_lengths old: 5; new: 5
+08/05/2020 06:02:24 PM: DEBUG: -> code[equal] old[1:4] new[1:4]
+08/05/2020 06:02:24 PM: DEBUG: parse_part from 1 to 5 (to 4 in part parser)
+08/05/2020 06:02:24 PM: DEBUG: -> code[replace] old[5:5] new[5:5]
+08/05/2020 06:02:24 PM: DEBUG: diff parser end
+08/05/2020 06:02:24 PM: DEBUG: diff parser start
+08/05/2020 06:02:24 PM: DEBUG: line_lengths old: 5; new: 5
+08/05/2020 06:02:24 PM: DEBUG: -> code[equal] old[1:4] new[1:4]
+08/05/2020 06:02:24 PM: DEBUG: parse_part from 1 to 5 (to 4 in part parser)
+08/05/2020 06:02:24 PM: DEBUG: -> code[replace] old[5:5] new[5:5]
+08/05/2020 06:02:24 PM: DEBUG: diff parser end
+08/05/2020 06:02:24 PM: DEBUG: diff parser start
+08/05/2020 06:02:24 PM: DEBUG: line_lengths old: 5; new: 5
+08/05/2020 06:02:24 PM: DEBUG: -> code[equal] old[1:4] new[1:4]
+08/05/2020 06:02:24 PM: DEBUG: parse_part from 1 to 5 (to 4 in part parser)
+08/05/2020 06:02:24 PM: DEBUG: -> code[replace] old[5:5] new[5:5]
+08/05/2020 06:02:24 PM: DEBUG: diff parser end
+08/05/2020 06:02:25 PM: DEBUG: diff parser start
+08/05/2020 06:02:25 PM: DEBUG: line_lengths old: 5; new: 5
+08/05/2020 06:02:25 PM: DEBUG: -> code[equal] old[1:4] new[1:4]
+08/05/2020 06:02:25 PM: DEBUG: parse_part from 1 to 5 (to 4 in part parser)
+08/05/2020 06:02:25 PM: DEBUG: -> code[replace] old[5:5] new[5:5]
+08/05/2020 06:02:25 PM: DEBUG: diff parser end
+08/05/2020 06:02:25 PM: DEBUG: diff parser start
+08/05/2020 06:02:25 PM: DEBUG: line_lengths old: 5; new: 5
+08/05/2020 06:02:25 PM: DEBUG: -> code[equal] old[1:4] new[1:4]
+08/05/2020 06:02:25 PM: DEBUG: parse_part from 1 to 5 (to 4 in part parser)
+08/05/2020 06:02:25 PM: DEBUG: -> code[replace] old[5:5] new[5:5]
+08/05/2020 06:02:25 PM: DEBUG: diff parser end
+08/05/2020 06:02:30 PM: DEBUG: diff parser start
+08/05/2020 06:02:30 PM: DEBUG: line_lengths old: 5; new: 5
+08/05/2020 06:02:30 PM: DEBUG: -> code[equal] old[1:4] new[1:4]
+08/05/2020 06:02:30 PM: DEBUG: parse_part from 1 to 5 (to 4 in part parser)
+08/05/2020 06:02:30 PM: DEBUG: -> code[replace] old[5:5] new[5:5]
+08/05/2020 06:02:30 PM: DEBUG: diff parser end
+08/05/2020 06:02:30 PM: DEBUG: pickle loaded: C:\Users\asoraganvi\Anaconda3\lib\site-packages\IPython\core\autocall.py
+08/05/2020 06:02:36 PM: DEBUG: diff parser start
+08/05/2020 06:02:36 PM: DEBUG: line_lengths old: 5; new: 5
+08/05/2020 06:02:36 PM: DEBUG: -> code[equal] old[1:4] new[1:4]
+08/05/2020 06:02:36 PM: DEBUG: parse_part from 1 to 5 (to 4 in part parser)
+08/05/2020 06:02:36 PM: DEBUG: -> code[replace] old[5:5] new[5:5]
+08/05/2020 06:02:36 PM: DEBUG: diff parser end
+08/05/2020 06:02:37 PM: DEBUG: diff parser start
+08/05/2020 06:02:37 PM: DEBUG: line_lengths old: 5; new: 5
+08/05/2020 06:02:37 PM: DEBUG: -> code[equal] old[1:4] new[1:4]
+08/05/2020 06:02:37 PM: DEBUG: parse_part from 1 to 5 (to 4 in part parser)
+08/05/2020 06:02:37 PM: DEBUG: -> code[replace] old[5:5] new[5:5]
+08/05/2020 06:02:37 PM: DEBUG: diff parser end
+08/05/2020 06:02:38 PM: DEBUG: diff parser start
+08/05/2020 06:02:38 PM: DEBUG: line_lengths old: 5; new: 5
+08/05/2020 06:02:38 PM: DEBUG: -> code[equal] old[1:4] new[1:4]
+08/05/2020 06:02:38 PM: DEBUG: parse_part from 1 to 5 (to 4 in part parser)
+08/05/2020 06:02:38 PM: DEBUG: -> code[replace] old[5:5] new[5:5]
+08/05/2020 06:02:38 PM: DEBUG: diff parser end
+08/05/2020 06:02:45 PM: ERROR: list index out of range
+Traceback (most recent call last):
+  File "<ipython-input-30-5f1d60752bce>", line 3, in <module>
+    val=a[6]
+IndexError: list index out of range
+08/05/2020 06:03:48 PM: DEBUG: diff parser start
+08/05/2020 06:03:48 PM: DEBUG: line_lengths old: 5; new: 1
+08/05/2020 06:03:48 PM: DEBUG: -> code[replace] old[1:5] new[1:1]
+08/05/2020 06:03:48 PM: DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+08/05/2020 06:03:48 PM: DEBUG: diff parser end
+08/05/2020 06:04:30 PM: ERROR: The Error is Traceback (most recent call last):
+  File "<ipython-input-31-dd8566b0cd71>", line 4, in <module>
+    val=a[6]
+IndexError: list index out of range
+
